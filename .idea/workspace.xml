@@ -1,16 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="723a631d-1761-4c81-84f5-4d4cdc5090f9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data_types_and_variables_lab/01_concat_names.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data_types_and_variables_lab/02_convert_meters_to_kilometers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data_types_and_variables_lab/03_pounds_to_dollars.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data_types_and_variables_lab/04_centuries_to_minutes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data_types_and_variables_lab/05_special_numbers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data_types_and_variables_lab/6_next_happy_year.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data_types_and_variables_lab/6_next_happy_year_2.py" afterDir="false" />
+    <list default="true" id="723a631d-1761-4c81-84f5-4d4cdc5090f9" name="Changes" comment="Week 2 final solutions">
+      <change afterPath="$PROJECT_DIR$/lists_basics_lab/01_stranger_zoo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lists_basics_lab/02_courses.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lists_basics_lab/03_list_statistics.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lists_basics_lab/04_search.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lists_basics_lab/05_numbers_filter.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_types_and_variables_lab/05_special_numbers.py" beforeDir="false" afterPath="$PROJECT_DIR$/data_types_and_variables_lab/05_special_numbers.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,10 +37,16 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.05_special_numbers">
-    <configuration name="01_concat_names" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Spas Nikolov\Documents\GitHub\Fundamental_Python_SoftUni" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.05_numbers_filter">
+    <configuration name="01_stranger_zoo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Fundamental_Python_SoftUni" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -50,11 +54,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/data_types_and_variables_lab" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lists_basics_lab" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/data_types_and_variables_lab/01_concat_names.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lists_basics_lab/01_stranger_zoo.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -63,7 +67,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="03_pounds_to_dollars" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="02_courses" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Fundamental_Python_SoftUni" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -71,11 +75,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/data_types_and_variables_lab" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lists_basics_lab" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/data_types_and_variables_lab/03_pounds_to_dollars.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lists_basics_lab/02_courses.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -84,7 +88,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="04_centuries_to_minutes" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="03_list_statistics" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Fundamental_Python_SoftUni" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -92,11 +96,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/data_types_and_variables_lab" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lists_basics_lab" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/data_types_and_variables_lab/04_centuries_to_minutes.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lists_basics_lab/03_list_statistics.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -105,7 +109,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="05_special_numbers" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="04_search" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Fundamental_Python_SoftUni" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -113,11 +117,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/data_types_and_variables_lab" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lists_basics_lab" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/data_types_and_variables_lab/05_special_numbers.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lists_basics_lab/04_search.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -126,7 +130,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="6_next_happy_year" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="05_numbers_filter" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Fundamental_Python_SoftUni" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -134,11 +138,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/data_types_and_variables_lab" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lists_basics_lab" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/data_types_and_variables_lab/6_next_happy_year.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lists_basics_lab/05_numbers_filter.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -149,11 +153,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.05_special_numbers" />
-        <item itemvalue="Python.6_next_happy_year" />
-        <item itemvalue="Python.04_centuries_to_minutes" />
-        <item itemvalue="Python.03_pounds_to_dollars" />
-        <item itemvalue="Python.01_concat_names" />
+        <item itemvalue="Python.05_numbers_filter" />
+        <item itemvalue="Python.04_search" />
+        <item itemvalue="Python.03_list_statistics" />
+        <item itemvalue="Python.02_courses" />
+        <item itemvalue="Python.01_stranger_zoo" />
       </list>
     </recent_temporary>
   </component>
@@ -166,6 +170,14 @@
       <option name="presentableId" value="Default" />
       <updated>1685000554144</updated>
     </task>
+    <task id="LOCAL-00001" summary="Week 2 final solutions">
+      <created>1685544552414</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1685544552414</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -178,5 +190,21 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Week 2 final solutions" />
+    <option name="LAST_COMMIT_MESSAGE" value="Week 2 final solutions" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/data_types_and_variables_exercise/07_water_overflow.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

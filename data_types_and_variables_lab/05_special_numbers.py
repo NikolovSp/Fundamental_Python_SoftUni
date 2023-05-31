@@ -1,13 +1,13 @@
 n = int(input())
 
 for num in range(1, n + 1):
-    sum = 0
-    a = num
+    sum_digits = 0
+    digits = num
+    while digits > 0:
+        sum_digits += digits % 10
+        digits = int(digits / 10)
 
-    while a > 0:
-        sum += num % 10
-        a = int(a / 10)
-    if sum % 5 == 0 or sum % 7 == 0 or sum % 11 == 0:
+    if sum_digits == 5 or sum_digits == 7 or sum_digits == 11:
         print(f'{num} -> True')
     else:
         print(f'{num} -> False')
