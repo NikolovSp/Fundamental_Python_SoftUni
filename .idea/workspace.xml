@@ -1,14 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="723a631d-1761-4c81-84f5-4d4cdc5090f9" name="Changes" comment="Week 2 final solutions">
-      <change afterPath="$PROJECT_DIR$/lists_basics_lab/01_stranger_zoo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lists_basics_lab/02_courses.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lists_basics_lab/03_list_statistics.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lists_basics_lab/04_search.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lists_basics_lab/05_numbers_filter.py" afterDir="false" />
+    <list default="true" id="723a631d-1761-4c81-84f5-4d4cdc5090f9" name="Changes" comment="Lists first practice">
+      <change afterPath="$PROJECT_DIR$/basic_syntax_conditional_statements_and_loops_more_exercise/02_find_the_capitals.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic_syntax_conditional_statements_and_loops_more_exercise/03_wolf_in_sheeps_clothing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic_syntax_conditional_statements_and_loops_more_exercise/04_sum_of_a_beach.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_types_and_variables_more_exercise/01_exchange_integers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_types_and_variables_more_exercise/02_prime_number_checker.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_types_and_variables_more_exercise/04_balanced_brackets.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_types_and_variables_more_exercise/3_decrypting_messages.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/functions_lab/01_absolute_values.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/functions_lab/02_grades.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/functions_lab/03_calculations.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/functions_lab/04_repeat_string.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/functions_lab/05_orders.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/functions_lab/06_calculate_rectangle_area.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lists_basics_exercise/01_invert_values.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lists_basics_exercise/01_inverted_values_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lists_basics_exercise/02_multiples_list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lists_basics_exercise/03_football_cards.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lists_basics_exercise/04_faro_shuffle_02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lists_basics_exercise/04_number_beggars.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lists_basics_exercise/05_faro_shuffle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lists_basics_exercise/06_survival_of_the_biggest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lists_basics_exercise/07_easter_gfts.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lists_basics_exercise/09_hello_france.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lists_basics_exercise/10_bread_factory.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lists_basics_exercise/try.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lists_basics_more_exercise/01_zeros_to_back.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lists_basics_more_exercise/02_messaging.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_types_and_variables_lab/05_special_numbers.py" beforeDir="false" afterPath="$PROJECT_DIR$/data_types_and_variables_lab/05_special_numbers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic_syntax_conditional_statements_and_loops_more_exercise/01_find_the_largest.py" beforeDir="false" afterPath="$PROJECT_DIR$/basic_syntax_conditional_statements_and_loops_more_exercise/01_find_the_largest.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,6 +47,14 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
   <component name="ProjectId" id="2QHBIyE422IZM40xekOk0jrhOV2" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -38,15 +68,15 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Spas Nikolov\Documents\GitHub\Fundamental_Python_SoftUni" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.05_numbers_filter">
-    <configuration name="01_stranger_zoo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.07_rounding">
+    <configuration name="03_calculations" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Fundamental_Python_SoftUni" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -54,11 +84,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lists_basics_lab" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/functions_lab" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lists_basics_lab/01_stranger_zoo.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/functions_lab/03_calculations.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -67,7 +97,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="02_courses" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="04_repeat_string" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Fundamental_Python_SoftUni" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -75,11 +105,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lists_basics_lab" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/functions_lab" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lists_basics_lab/02_courses.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/functions_lab/04_repeat_string.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -88,7 +118,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="03_list_statistics" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="05_orders" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Fundamental_Python_SoftUni" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -96,11 +126,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lists_basics_lab" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/functions_lab" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lists_basics_lab/03_list_statistics.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/functions_lab/05_orders.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -109,7 +139,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="04_search" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="06_calculate_rectangle_area" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Fundamental_Python_SoftUni" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -117,11 +147,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lists_basics_lab" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/functions_lab" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lists_basics_lab/04_search.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/functions_lab/06_calculate_rectangle_area.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -130,7 +160,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="05_numbers_filter" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="07_rounding" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Fundamental_Python_SoftUni" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -138,11 +168,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lists_basics_lab" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/functions_lab" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lists_basics_lab/05_numbers_filter.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/functions_lab/07_rounding.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -153,11 +183,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.05_numbers_filter" />
-        <item itemvalue="Python.04_search" />
-        <item itemvalue="Python.03_list_statistics" />
-        <item itemvalue="Python.02_courses" />
-        <item itemvalue="Python.01_stranger_zoo" />
+        <item itemvalue="Python.07_rounding" />
+        <item itemvalue="Python.06_calculate_rectangle_area" />
+        <item itemvalue="Python.05_orders" />
+        <item itemvalue="Python.04_repeat_string" />
+        <item itemvalue="Python.03_calculations" />
       </list>
     </recent_temporary>
   </component>
@@ -177,7 +207,14 @@
       <option name="project" value="LOCAL" />
       <updated>1685544552414</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Lists first practice">
+      <created>1685551193940</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1685551193940</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -194,7 +231,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Week 2 final solutions" />
-    <option name="LAST_COMMIT_MESSAGE" value="Week 2 final solutions" />
+    <MESSAGE value="Lists first practice" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lists first practice" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -203,6 +241,26 @@
           <url>file://$PROJECT_DIR$/data_types_and_variables_exercise/07_water_overflow.py</url>
           <line>6</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/lists_basics_exercise/05_faro_shuffle.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/lists_basics_exercise/try.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/basic_syntax_conditional_statements_and_loops_more_exercise/04_sum_of_a_beach.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/data_types_and_variables_more_exercise/04_balanced_brackets.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="9" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
