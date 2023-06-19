@@ -6,5 +6,3 @@ for line in range(lines):
     new_letter = ord(letter) + key
     encrypted.append(chr(new_letter))
 print(*encrypted, sep='')
-
-

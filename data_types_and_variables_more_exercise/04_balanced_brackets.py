@@ -1,20 +1,22 @@
 number_lines = int(input())
 brackets = []
-Balanced = False
-for count in range(number_lines):
-    line = input()
-    brackets.append(line)
-print(brackets)
-for index in range(number_lines - 1):
-    if brackets[index] == ')':
-        print('UNBALANCED')
-        break
-    elif brackets[index] == '(':
-        for closing in range(index + 1, number_lines - 1):
-            if brackets[closing] == ')':
-                print('UNBALANCED')
-                break
-            elif brackets[closing] == ')':
-                Balanced = True
+Balanced = True
+for i in range(number_lines):
+    random_string = input()
+
+    if random_string == '(' or random_string == ')':
+        brackets.append(random_string)
+
+    if len(brackets) == 2:
+        if brackets[0] == '(' and brackets[1] == ')':
+            brackets.clear()
+        else:
+            Balanced = False
+
+if len(brackets) != 0:
+    Balanced = False
+
 if Balanced:
     print('BALANCED')
+else:
+    print('UNBALANCED')

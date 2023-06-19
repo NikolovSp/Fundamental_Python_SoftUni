@@ -1,36 +1,54 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="723a631d-1761-4c81-84f5-4d4cdc5090f9" name="Changes" comment="Lists first practice">
-      <change afterPath="$PROJECT_DIR$/basic_syntax_conditional_statements_and_loops_more_exercise/02_find_the_capitals.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic_syntax_conditional_statements_and_loops_more_exercise/03_wolf_in_sheeps_clothing.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic_syntax_conditional_statements_and_loops_more_exercise/04_sum_of_a_beach.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data_types_and_variables_more_exercise/01_exchange_integers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data_types_and_variables_more_exercise/02_prime_number_checker.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data_types_and_variables_more_exercise/04_balanced_brackets.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data_types_and_variables_more_exercise/3_decrypting_messages.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/functions_lab/01_absolute_values.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/functions_lab/02_grades.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/functions_lab/03_calculations.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/functions_lab/04_repeat_string.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/functions_lab/05_orders.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/functions_lab/06_calculate_rectangle_area.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lists_basics_exercise/01_invert_values.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lists_basics_exercise/01_inverted_values_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lists_basics_exercise/02_multiples_list.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lists_basics_exercise/03_football_cards.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lists_basics_exercise/04_faro_shuffle_02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lists_basics_exercise/04_number_beggars.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lists_basics_exercise/05_faro_shuffle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lists_basics_exercise/06_survival_of_the_biggest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lists_basics_exercise/07_easter_gfts.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lists_basics_exercise/09_hello_france.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lists_basics_exercise/10_bread_factory.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lists_basics_exercise/try.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lists_basics_more_exercise/01_zeros_to_back.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lists_basics_more_exercise/02_messaging.py" afterDir="false" />
+    <list default="true" id="723a631d-1761-4c81-84f5-4d4cdc5090f9" name="Changes" comment="Week 4/5">
+      <change afterPath="$PROJECT_DIR$/basic_syntax_conditional_statements_and_loops_more_exercise/02_find_the_capitals2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic_syntax_conditional_statements_and_loops_more_exercise/04_sum_of_a_beach2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/functions_exercise/01_smallest_of_three_numbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/functions_exercise/01_smallest_of_three_numbers_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/functions_exercise/02_add_and_subtract.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/functions_exercise/03_characters_in_range.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/functions_exercise/04_odd_and_even_sum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/functions_exercise/04_odd_and_even_sum_based_oon_digits.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/functions_exercise/05_even_numbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/functions_exercise/06_sort.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/functions_exercise/07_min_max_and_sum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/functions_exercise/08_palindrome_integers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/functions_exercise/09_password_validator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/functions_exercise/10_perfect_number.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/functions_exercise/11_loading_bar.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/functions_exercise/12_factorial_division.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/functions_more_exercise/01_data_types.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/functions_more_exercise/02_center_point.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/functions_more_exercise/03_longer_line.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/functions_more_exercise/05_multiplication_sign.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/functions_more_exercise/4_tribonacci_sequence.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lists_advanced_exercise/01_which_are_in.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lists_advanced_exercise/02_next_version.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lists_advanced_exercise/03_word_filter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lists_advanced_exercise/04_number_classification.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lists_advanced_exercise/05_office_chairs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lists_advanced_exercise/06_electron_distribution.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lists_advanced_lab/01_no_vowels.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lists_advanced_lab/02_trains.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lists_advanced_lab/04_palindrome_string.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lists_advanced_lab/05_sorting_names.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lists_advanced_lab/06_even_numbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lists_advanced_lab/7_the_office.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lists_basics_more_exercise/02_messaging2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lists_basics_more_exercise/03_car_race.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lists_basics_more_exercise/04_josephus_permutation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lists_basics_more_exercise/05_tic_tac_toe.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/regural_midterm_June_2023/02_tax_calculator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/regural_midterm_June_2023/03_chat_logger.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/regural_midterm_June_2023/problem_1_experience_battle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/regural_midterm_June_2023/try.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/basic_syntax_conditional_statements_and_loops_more_exercise/01_find_the_largest.py" beforeDir="false" afterPath="$PROJECT_DIR$/basic_syntax_conditional_statements_and_loops_more_exercise/01_find_the_largest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_types_and_variables_more_exercise/01_exchange_integers.py" beforeDir="false" afterPath="$PROJECT_DIR$/data_types_and_variables_more_exercise/01_exchange_integers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_types_and_variables_more_exercise/04_balanced_brackets.py" beforeDir="false" afterPath="$PROJECT_DIR$/data_types_and_variables_more_exercise/04_balanced_brackets.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_types_and_variables_more_exercise/3_decrypting_messages.py" beforeDir="false" afterPath="$PROJECT_DIR$/data_types_and_variables_more_exercise/3_decrypting_messages.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,6 +63,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="NikolovSp &lt;123583707+nikolovsp@users.noreply.github.com&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitSEFilterConfiguration">
@@ -75,8 +98,8 @@
       <recent name="C:\Users\Spas Nikolov\Documents\GitHub\Fundamental_Python_SoftUni" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.07_rounding">
-    <configuration name="03_calculations" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.03_chat_logger">
+    <configuration name="02_tax_calculator" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Fundamental_Python_SoftUni" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -84,11 +107,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/functions_lab" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/regural_midterm_June_2023" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/functions_lab/03_calculations.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/regural_midterm_June_2023/02_tax_calculator.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -97,7 +120,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="04_repeat_string" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="03_chat_logger" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Fundamental_Python_SoftUni" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -105,11 +128,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/functions_lab" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/regural_midterm_June_2023" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/functions_lab/04_repeat_string.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/regural_midterm_June_2023/03_chat_logger.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -118,7 +141,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="05_orders" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="06_electron_distribution" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Fundamental_Python_SoftUni" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -126,11 +149,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/functions_lab" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lists_advanced_exercise" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/functions_lab/05_orders.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lists_advanced_exercise/06_electron_distribution.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -139,7 +162,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="06_calculate_rectangle_area" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="problem_1_experience_battle" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Fundamental_Python_SoftUni" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -147,11 +170,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/functions_lab" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/regural_midterm_June_2023" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/functions_lab/06_calculate_rectangle_area.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/regural_midterm_June_2023/problem_1_experience_battle.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -160,7 +183,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="07_rounding" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="try" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Fundamental_Python_SoftUni" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -168,11 +191,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/functions_lab" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/regural_midterm_June_2023" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/functions_lab/07_rounding.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/regural_midterm_June_2023/try.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -183,11 +206,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.07_rounding" />
-        <item itemvalue="Python.06_calculate_rectangle_area" />
-        <item itemvalue="Python.05_orders" />
-        <item itemvalue="Python.04_repeat_string" />
-        <item itemvalue="Python.03_calculations" />
+        <item itemvalue="Python.03_chat_logger" />
+        <item itemvalue="Python.try" />
+        <item itemvalue="Python.02_tax_calculator" />
+        <item itemvalue="Python.problem_1_experience_battle" />
+        <item itemvalue="Python.06_electron_distribution" />
       </list>
     </recent_temporary>
   </component>
@@ -214,7 +237,28 @@
       <option name="project" value="LOCAL" />
       <updated>1685551193940</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Week 4/5">
+      <created>1686813063084</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1686813063084</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Week 4/5">
+      <created>1687075913922</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1687075913922</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Week 4/5">
+      <created>1687157894178</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1687157894178</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -232,7 +276,9 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Week 2 final solutions" />
     <MESSAGE value="Lists first practice" />
-    <option name="LAST_COMMIT_MESSAGE" value="Lists first practice" />
+    <MESSAGE value="week 5 plus midterm practice" />
+    <MESSAGE value="Week 4/5" />
+    <option name="LAST_COMMIT_MESSAGE" value="Week 4/5" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -259,8 +305,28 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/data_types_and_variables_more_exercise/04_balanced_brackets.py</url>
-          <line>7</line>
+          <line>2</line>
           <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/functions_exercise/04_odd_and_even_sum_based_oon_digits.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/lists_advanced_exercise/01_which_are_in.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/lists_advanced_exercise/05_office_chairs.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/regural_midterm_June_2023/try.py</url>
+          <line>24</line>
+          <option name="timeStamp" value="20" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
