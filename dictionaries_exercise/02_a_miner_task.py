@@ -5,10 +5,9 @@ while True:
     if resource == 'stop':
         break
     quantity = int(input())
-    if resource not in resources:
-        resources[resource] = quantity
-    else:
-        resources[resource] += quantity
+    if resource not in resources.keys():
+        resources[resource] = 0
+    resources[resource] += quantity
 # print(resources)
 
 for key, value in resources.items():
